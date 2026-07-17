@@ -52,7 +52,7 @@ public:
 |--------|------------|
 | [🍽️ Smart Cafe Management System](https://github.com/Alishba964/Smart-Cafe-Management-System) | Desktop cafe management system built in Python with CustomTkinter and SQLite — handles login, admin panel, order & billing, and sales analytics |
 | [❌⭕ Tic Tac Toe](https://github.com/Alishba964/Tic-Tac-Toe) | Interactive desktop game built using C# Windows Forms with a clean GUI and game logic implementation |
-| [🌦 Weather App](https://github.com/Alishba964/Weather_App) | Python-based GUI application that fetches real-time weather data using API integration |
+| [🌦 Weather App](https://github.com/azka-azhar/Weather_App) | Python-based GUI application that fetches real-time weather data using API integration |
 | [🩸 Iron-Quest](https://github.com/Alishba964/Iron-Quest) | C# Windows Forms health app to track daily iron consumption — includes login, meal management, progress tracking, and dashboard |
 
 ---
